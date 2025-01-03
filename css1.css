@@ -1,10 +1,10 @@
 body{
-    background-color: #141414;
+    background-color: #2c411c;
     color: white;
     font-family: Arial;
-    /* background-image: url(image/1.JPG); */
-    /* background-repeat: repeat-x; */
-    background-repeat: no-repeat;
+    background-image: url(image/pngwing.com.png);
+    background-repeat: repeat-x;background-position: bottom;
+    /* background-repeat: no-repeat; */
 }
 h1{
     font-family: 'Franklin Gothic Medium', sans-serif;
@@ -36,6 +36,8 @@ main{
     text-transform: capitaliize;
     letter-spacing :2px;
     word-spacing: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .figure1{
