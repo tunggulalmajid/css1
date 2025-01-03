@@ -37,11 +37,15 @@ main{
     letter-spacing :2px;
     word-spacing: 1px;
 }
+
+.figure1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .image1{
     width: 400;
-    margin: 10px;;
 }
-
 #headerS1{
     color: aqua;
 }
